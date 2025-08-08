@@ -65,7 +65,7 @@
         }
     },
     "repositories": {
-        "laravel-request-logger": {
+        "always-open/laravel-request-logger": {
             "type": "vcs",
             "url": "git@github.com:bluefyn-international/laravel-request-logger.git"
         }
